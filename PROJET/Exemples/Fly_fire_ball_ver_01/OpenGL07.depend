@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1490094294 source:d:\codeblocks\opengl07\main.cpp
+	<windows.h>
+	<Winuser.h>
+	<math.h>
+	<gl\gl.h>
+	<gl\glu.h>
+	<gl\glut.h>
+	<vector>
+	<cstdlib>
+	<cmath>
+
+1490444628 source:c:\users\siga\desktop\opengl07\main.cpp
+	<windows.h>
+	<Winuser.h>
+	<cmath>
+	<gl\glut.h>
+	<vector>
+	<cstdlib>
+	<gl\glaux.h>
+
+1490639703 source:d:\dropbox\opengl07\main.cpp
+	<windows.h>
+	<Winuser.h>
+	<cmath>
+	<gl\glut.h>
+	<vector>
+	<cstdlib>
+	<gl\glaux.h>
+
+1490699664 source:c:\users\siga\dropbox\opengl07\main.cpp
+	<windows.h>
+	<Winuser.h>
+	<cmath>
+	<gl\glut.h>
+	<vector>
+	<cstdlib>
+	<gl\glaux.h>
+
+1490699664 source:d:\dropbox\Ñ++\ishodniki\!gres\!codeblocks\glutsource\opengl07\main.cpp
+	<windows.h>
+	<Winuser.h>
+	<cmath>
+	<gl\glut.h>
+	<vector>
+	<cstdlib>
+	<gl\glaux.h>
+
+1496035998 source:d:\dropbox\Ñ++\ishodniki\!gres\!codeblocks\glutsource\!ball_\fly_fire_ball_ver_01\main.cpp
+	<windows.h>
+	<Winuser.h>
+	<cmath>
+	<gl\glut.h>
+	<vector>
+	<cstdlib>
+	<gl\glaux.h>
+
